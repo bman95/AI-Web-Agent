@@ -1,10 +1,3 @@
-# ─────────────────────────────────────────────────────────────────────────────
-#  Chatbot Playwright + MCP con STREAMING de tokens
-#  ---------------------------------------------------------------------------
-#  Versión: muestra la invocación de herramientas (nombre + args opcionales),
-#  pero sigue ocultando la salida de las mismas.
-# ─────────────────────────────────────────────────────────────────────────────
-
 import argparse
 import asyncio
 import shutil
