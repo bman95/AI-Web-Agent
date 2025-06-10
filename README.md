@@ -64,7 +64,7 @@ exit
 
 ```
 .
-├── web_agent.py             # Main CLI entrypoint
+├── web_agent.py         # Main CLI entrypoint
 ├── instructions.md      # Behavior instructions for the Agent
 ├── requirements.txt     # Python dependencies
 └── README.md            # You're here!
