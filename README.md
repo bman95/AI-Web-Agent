@@ -1,6 +1,6 @@
 # AI-Web-Agent
 
-This project creates a chatbot-style interface that controls a Playwright browser using the [MCP (Multi-Channel Proxy)](https://github.com/microsoft/playwright-mcp) server. It allows for automated web interactions like navigation, form-filling, clicking, and scraping using natural language commands.
+This project creates a chatbot-style interface that controls a Playwright browser using the [MCP (Model Context Protocol)](https://github.com/microsoft/playwright-mcp) server. It allows for automated web interactions like navigation, form-filling, clicking, and scraping using natural language commands.
 
 ## 🔧 Features
 
